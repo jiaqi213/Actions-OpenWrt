@@ -17,7 +17,7 @@ on:
       ssh:
         description: 'SSH connection to Actions'
         必填：true
-        默认值：'false'
+        默认值：' true '
 
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede
